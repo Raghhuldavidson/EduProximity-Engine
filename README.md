@@ -44,7 +44,7 @@ The system:
 
 ## Project Structure
 ```bash
-air1.py                # Main Streamlit application
+code_epe.py                # Main Streamlit application
 college_database.sql    # College database (if included)
 requirements.txt        # Project dependencies
 ```
